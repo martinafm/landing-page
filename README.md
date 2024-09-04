@@ -2,6 +2,10 @@
 
 This project is a simple landing page designed as a recruitment task. It features a clean and responsive design, showcasing modern web development techniques. Additionally I used React to build the site as a repetition and practice of the basic skills of this technology.
 
+View live: https://github.com/martinafm/landing-page/tree/gh-pages
+
+![Two devices with views of Landing Page](src/assets/project.png)
+
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
