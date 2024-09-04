@@ -2,7 +2,7 @@
 
 This project is a simple landing page designed as a recruitment task. It features a clean and responsive design, showcasing modern web development techniques. Additionally I used React to build the site as a repetition and practice of the basic skills of this technology.
 
-View live: https://github.com/martinafm/landing-page/tree/gh-pages
+View live: https://martini-fm-landing-page.vercel.app
 
 ![Two devices with views of Landing Page](src/assets/project.png)
 
